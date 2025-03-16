@@ -5,19 +5,19 @@ mihomo dashboard all in one
 
 [zashboard](https://github.com/Zephyruso/zashboard.git)
 
-*端口 100 路径 /srv/zashboard*
+*端口 100 文件路径 /srv/zashboard*
 
 [metacubexd](https://github.com/metacubex/metacubexd.git)
 
-*端口 101 /srv/metacubexd*
+*端口 101 文件路径 /srv/metacubexd*
 
 [Yacd](https://github.com/metacubex/Yacd-meta.git)
 
-*端口 102 /srv/yacd*
+*端口 102 文件路径 /srv/yacd*
 
 [Razord](https://github.com/metacubex/Razord-meta.git)
 
-*端口 103 /srv/razord*
+*端口 103 文件路径 /srv/razord*
 
 **部署**
 

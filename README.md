@@ -4,12 +4,19 @@ mihomo dashboard all in one
 **自动定时更新**
 
 [zashboard](https://github.com/Zephyruso/zashboard.git)
+
 *端口 100 路径 /srv/zashboard*
+
 [metacubexd](https://github.com/metacubex/metacubexd.git)
+
 *端口 101 /srv/metacubexd*
+
 [Yacd](https://github.com/metacubex/Yacd-meta.git)
+
 *端口 102 /srv/yacd*
+
 [Razord](https://github.com/metacubex/Razord-meta.git)
+
 *端口 103 /srv/razord*
 
 **部署**

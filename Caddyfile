@@ -1,0 +1,31 @@
+:100 {
+  file_server
+
+  root * /srv/zashboard
+  
+  try_files {path} /index.html
+}
+
+:101 {
+  file_server
+
+  root * /srv/metacubexd
+  
+  try_files {path} /index.html
+}
+
+:102 {
+  file_server
+
+  root * /srv/yacd
+  
+  try_files {path} /index.html
+}
+
+:103 {
+  file_server
+
+  root * /srv/razord
+  
+  try_files {path} /index.html
+}
